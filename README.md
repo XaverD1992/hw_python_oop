@@ -8,7 +8,7 @@
 Клонировать репозиторий и перейти в него в командной строке:
 
 ```
-git clone https://github.com/mdkostrov/hw_python_oop.git
+git clone https://github.com/XaverD1992/hw_python_oop.git
 ```
 
 ```
@@ -42,3 +42,6 @@ pip install -r requirements.txt
 ```
 python homework
 ```
+
+# Автор
+- Владислав Суворов
